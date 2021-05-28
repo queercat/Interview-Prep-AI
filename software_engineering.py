@@ -74,5 +74,100 @@ some use an older concept called 'Use case'.
 
 # User Story (From XP [Extreme Programming])
 """
-Describes a required feature.
+Describes a required feature in narrative form.
+Usually written by the Product Owner and are the
+Product owner's responsibility.
+"""
+
+# Story
+"""
+Not all stories need to be user-facing features.
+Still represents work. 
+
+Non-function requirements are "Technical Stores". Have
+same elements as user stories but need not be cast 
+into narrative form.
+
+Typically written by team members then added to the PB.
+The product owner is familiar with these in order to rank
+implementation sequencing.
+"""
+
+# Defect
+"""
+A defect is a description of a failure of the product. 
+Stored in a bug tracking system.
+
+The product owner usually enters each defect into the PB.
+"""
+
+# Scrum Roles
+"""
+ScrumMaster or Scrum Master.
+
+Keeper of the process, smooth integration of agile.
+
+* Teach product owner to maximize ROI.
+* Improve life of dev team.
+* Improve productivity in any way possible.
+* Improve product and notify team of progress.
+
+Must maintain awareness of the process as a whole.
+Acts as an interface between tasks and team.
+
+Product Owner
+
+Keeper of the requirements. "single source of truth"
+regarding requirements, order of implementation.
+
+In practice interface between business, customer,
+product needs, and the team.
+
+Maintains the product backlog. Sets the schedule and
+makes the final call whether features are ready for release.
+
+Team
+
+The team is a self organizing group of people
+who do hands on development and testing for the product.
+
+Team must decide how to break work into tasks and how
+to allocate tasks to individuals throughout sprint.
+
+The team size should be kept in range from 5 - 9, larger
+makes communication difficult while smaller leads to
+less productivity.
+
+Not to be confused with Scrum Team meaning ScrumMaster and PO.
+"""
+
+# Quantifiable Metrics
+"""
+Operational Metrics:
+* Lead Time
+* Cycle Time
+* Burndown Charts
+
+Output Metrics:
+* Throughput
+* Agility Assessment Model
+* Technical Quality / Defect Measure / Code Coverage
+* # of features.
+
+Value Metrics:
+* Team morale
+* Customer satisfaction
+* Business value
+"""
+
+# Safe
+"""
+The Scaled Agile Framework is a solution to medium and
+large organizations esp those from Waterfoll or Ad-Hoc.
+"""
+
+# Agile & DevOps
+"""
+Devops help the development team to keep a steady beat /
+pace to the Agile workflow.
 """
