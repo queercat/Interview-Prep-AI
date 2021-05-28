@@ -48,5 +48,3 @@ for i in range(10 ** 4):
 	arr.append(num)
 
 quicksort(arr, 0, len(arr) - 1)
-
-print(arr)
